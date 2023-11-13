@@ -1,5 +1,7 @@
 ## Matrimony Landing Page
 
+preview: https://matrimony-srujanify.netlify.app/
+
 ### Description:
 This project involves the design and development of a static landing page for a matrimony website using Bootstrap 5. The focus was on creating an aesthetically pleasing and responsive interface that provides an introduction to the matrimonial services offered by the platform. The use of Bootstrap 5 facilitated the development of a sleek and modern design without the need for extensive custom styling.
 
